@@ -1,0 +1,3 @@
+C:/Users/ferna/CLionProjects/EDD_001/cmake-build-debug/CMakeFiles/EDD_001.dir
+C:/Users/ferna/CLionProjects/EDD_001/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ferna/CLionProjects/EDD_001/cmake-build-debug/CMakeFiles/rebuild_cache.dir
